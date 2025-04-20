@@ -7,6 +7,10 @@
     <list default="true" id="54cac3d4-ac15-4ad3-b1bb-353710513b74" name="Changes" comment="14.1 done">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Category.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/Category.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Product.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/Product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_Category.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_Category.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_Product.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_Product.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,21 +32,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "KadkinPavel"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KadkinPavel&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/KadkinPavel/skypro_newhws.git",
-    "accountId": "449da7f2-91e8-4e87-a085-ce772d1e1006"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KadkinPavel/skypro_newhws.git&quot;,
+    &quot;accountId&quot;: &quot;449da7f2-91e8-4e87-a085-ce772d1e1006&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2vfvBQ9vvzjXEibKprNw2YoJcuE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -54,6 +58,7 @@
     "Python.main.executor": "Run",
     "Python.test_Category.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "develop1",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
