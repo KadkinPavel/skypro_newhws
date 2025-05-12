@@ -33,9 +33,6 @@ class Category:
 
     def average_price(self) -> float:
         """Метод расчета средней цены товаров в категории"""
-        if not self.__products:
-            return 0
-
         try:
             total = sum(product.price for product in self.__products)
             return total / len(self.__products)
